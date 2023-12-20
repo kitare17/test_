@@ -1,2 +1,3 @@
 commit 1
-commit 2 tạo branch
+commit 3 tạo branch
+commit 4
